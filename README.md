@@ -1,4 +1,1 @@
-# hello-world
-My first repository(sound cringe but yk)
-
-Hello to whoever is reading this, im going to be a python expert
+okay im going to take everything seriously starting now
